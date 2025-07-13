@@ -1,0 +1,4 @@
+rdkit-pypi
+pmapper
+numpy
+pymol-open-source
